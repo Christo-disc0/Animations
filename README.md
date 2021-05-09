@@ -1,1 +1,1 @@
-How to create, manipulate, and animate shapes with the D3 JavaScript library and Scalable Vector Graphics (SVG).
+How to create interactive animations with the D3 JavaScript library and Scalable Vector Graphics (SVG).
